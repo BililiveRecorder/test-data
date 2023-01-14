@@ -11,49 +11,46 @@
             Value: onMetaData
           },
           {
-            Type: EcmaArray,
-            Value: {
-              audiocodecid: {
-                Value: 10.0
-              },
-              audiodatarate: {
-                Value: 156.25
-              },
-              audiosamplerate: {
-                Value: 48000.0
-              },
-              audiosamplesize: {
-                Value: 16.0
-              },
-              duration: {
-                Value: 10.467
-              },
-              encoder: {
-                Type: String,
-                Value: Lavf58.29.100
-              },
-              filesize: {
-                Value: 152006.0
-              },
-              framerate: {
-                Value: 30.0
-              },
-              height: {
-                Value: 240.0
-              },
-              stereo: {
-                Type: Boolean,
-                Value: true
-              },
-              videocodecid: {
-                Value: 7.0
-              },
-              videodatarate: {
-                Value: 97.65625
-              },
-              width: {
-                Value: 426.0
-              }
+            audiocodecid: {
+              Value: 10.0
+            },
+            audiodatarate: {
+              Value: 156.25
+            },
+            audiosamplerate: {
+              Value: 48000.0
+            },
+            audiosamplesize: {
+              Value: 16.0
+            },
+            duration: {
+              Value: 10.467
+            },
+            encoder: {
+              Type: String,
+              Value: Lavf58.29.100
+            },
+            filesize: {
+              Value: 152006.0
+            },
+            framerate: {
+              Value: 30.0
+            },
+            height: {
+              Value: 240.0
+            },
+            stereo: {
+              Type: Boolean,
+              Value: true
+            },
+            videocodecid: {
+              Value: 7.0
+            },
+            videodatarate: {
+              Value: 97.65625
+            },
+            width: {
+              Value: 426.0
             }
           }
         ]
